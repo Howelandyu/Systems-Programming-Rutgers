@@ -1,0 +1,3 @@
+We first tested the special error and warning cases, such as empty file and invalid arguments.
+We then made sure the code can distiguish between -i and -q and between numbers and strings.
+Finally, we made sure to be robust in our test cases including negative numbers, duplicate elements, empty tokens, sparatic whitespace, contunied words (ie. fast & faster), etc.
